@@ -1,6 +1,6 @@
 # wifi64
 
-Playing with the 64drive Wi-Fi module and libdragon
+Playing with the 64drive Wi-Fi module and [libdragon](https://github.com/DragonMinded/libdragon)
 
 ## Building
 
