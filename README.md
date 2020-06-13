@@ -12,6 +12,7 @@ Playing with the 64drive Wi-Fi module and libdragon
 ## Running
 
 1. Power off the Nintendo 64 console and plug in the 64drive USB cable
+1. Install [Homebrew](https://brew.sh/) and run `brew install libftdi` to install the FTDI libraries and headers required by the 64drive USB loader
 1. Build and make [64drive-usb-linux](https://github.com/RenaKunisaki/64drive-usb-linux/) available on your `$PATH`
 1. Run `64drive -c 6102 -v -l wifi64.z64` to load the ROM into the 64drive's SDRAM
 1. Power on the console to run the ROM
