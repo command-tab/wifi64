@@ -6,7 +6,7 @@
 
 // libdragon start
 // libdragon make && cen wifi64.z64
-// libdragon make && ./64drive -c 6102 -v -l wifi64.z64
+// libdragon make && 64drive -c 6102 -v -l wifi64.z64
 
 static resolution_t res = RESOLUTION_320x240;
 static bitdepth_t bit = DEPTH_32_BPP;
